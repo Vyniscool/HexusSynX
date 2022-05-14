@@ -1,4 +1,4 @@
-# HexusSynX | Synapse X Custom UI
+# FluxusSynX | Synapse X Custom UI
 
 ## Requirements
  - .NET Framework 4.8
