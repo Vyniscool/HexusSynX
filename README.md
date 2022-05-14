@@ -1,4 +1,4 @@
-# FluxusSynX | Synapse X Custom UI
+# HexusSynX | Synapse X Custom UI
 
 ## Requirements
  - .NET Framework 4.8
@@ -6,19 +6,19 @@
  - Synapse X
 
 ## Releases
-Releases: [Here](https://github.com/Vyniscool/FluxusSynX/releases/tag/FluxusSynX)
+Releases: [Here](https://github.com/Vyniscool/HexusSynX/releases)
 
 ## VirusTotal
-VirusTotal: [Here](https://www.virustotal.com/gui/file-analysis/YWU3NDA3NmVjMTRmNjU1OGJhZmEwMTlhZThiNTcxMTc6MTY1MjU1NTAxMg==)
+VirusTotal: [Here](https://www.virustotal.com/gui/file-analysis/ZGI4YzQ4YmFmMGRjMGQ0MjFjODNjZDI1YzNhOTNiYmY6MTY1MjMyODIwNQ==)
 
 # Thumbnails
-## Execution
-![image](https://media.discordapp.net/attachments/949873678185803777/975095439462400060/unknown.png)
-## Script hub
-![image](https://cdn.discordapp.com/attachments/949873678185803777/975095459238527056/unknown.png)
-## Settings 1
-![image](https://media.discordapp.net/attachments/949873678185803777/975095484995731496/unknown.png)
-## Settings 2
-![image](https://media.discordapp.net/attachments/949873678185803777/975095503282901062/unknown.png)
+## Output
+![image](https://cdn.discordapp.com/attachments/974159969987465246/974160105631256646/unknown.png)
+## Main
+![image](https://cdn.discordapp.com/attachments/974159969987465246/974160340801716224/unknown.png)
+## Settings
+![image](https://cdn.discordapp.com/attachments/974159969987465246/974160434846388326/unknown.png)
+## Script Hub
+![image](https://cdn.discordapp.com/attachments/974159969987465246/974160501145759804/unknown.png)
 
 ***DISCORD***: discord.gg/msBjh2MpF3
